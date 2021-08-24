@@ -1,12 +1,25 @@
 div{
-    text-align: center;
+    background-color:violet;
 }
 body{
-    background-color: chartreuse;
+    text-align: center;
 }
+
 .awesome{
-    background-color: chocolate;
+    font-size: 13px;
+    color: blue;
+    font-family: sans-serif;
+    padding-right: 120px;
 }
-.good{
-    background-color: crimson;
+.dog{
+    font-size: 13px;
+    color: blue;
+    font-family: sans-serif;
+    padding-right: 590px;
+
 }
+h5{
+    background-color: blueviolet;
+}
+
+
